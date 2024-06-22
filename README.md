@@ -1,4 +1,4 @@
-# RocketNotes
+# RocketNotes - API
 
 <p align="center">
  Projeto feito a partir de diversas aulas da Rockeseat para o desenvolvimento de novos conhecimento. 
@@ -14,17 +14,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Styled Components
 - Knex
 - Express
+- Node.Js
 - SQL
 - Cors
 - Axio
-- Github
+- Git
 
 ## 💻 Projeto
 - Projeto criado juntamente com a plataforma Rockeatseat.
 - [Acessar o site](https://giovannakethleen-notes.netlify.app/)
 - [Repositorio do Front End](https://github.com/giovannakethleen/rockeatnotesFront)
-
-Feito por Giovanna Kethleen
 
 
 <p> Feito por Giovanna Kethleen ♥ </p>
