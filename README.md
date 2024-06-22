@@ -1,5 +1,4 @@
 # RocketNotes
-<h1 align="center"> Notes </h1>
 
 <p align="center">
  Projeto feito a partir de diversas aulas da Rockeseat para o desenvolvimento de novos conhecimento. 
