@@ -5,14 +5,9 @@
  Projeto feito a partir de diversas aulas da Rockeseat para o desenvolvimento de novos conhecimento. 
 </p>
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
 
 <p align="center">
-  <img ![image](https://github.com/giovannakethleen/RocketNotes-API/assets/117686417/9e6ae6d2-cb81-4df9-b1d3-40b3670cc7e5)>
+![image](https://github.com/giovannakethleen/RocketNotes-API/assets/117686417/a481de1b-7f4f-4833-8f29-f475cbec91d2)
 </p>
 <br>
 
