@@ -1,4 +1,4 @@
-<p align="center"> # RocketNotes </p>
+# RocketNotes
 
 <p align="center">
  Projeto feito a partir de diversas aulas da Rockeseat para o desenvolvimento de novos conhecimento. 
